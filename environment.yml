@@ -1,0 +1,14 @@
+name: cfd_trading_strategies_env
+channels:
+- conda-forge
+- defaults
+dependencies: 
+- numpy
+- pandas
+- pip
+- yfinance
+- statsmodels
+- seaborn
+- matplotlib
+- ipykernel
+- pytest

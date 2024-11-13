@@ -12,7 +12,3 @@ dependencies:
 - matplotlib
 - ipykernel
 - pytest
-- zipline
-- backtrader
-- yahoo-fin
-- requests_html
